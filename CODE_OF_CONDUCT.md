@@ -1,3 +1,5 @@
+https://github.com/yababavideo/github-final-project/blob/main/CODE_OF_CONDUCT.md
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
